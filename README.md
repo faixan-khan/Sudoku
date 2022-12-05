@@ -1,2 +1,2 @@
 # Sudoku
-## All the experiments are present in the experiment folder.
+## Code for final project presentation for course CS260
